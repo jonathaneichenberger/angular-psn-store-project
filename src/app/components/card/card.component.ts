@@ -9,5 +9,5 @@ import { CardPricingComponent } from './card-pricing/card-pricing.component';
   styleUrl: './card.component.css'
 })
 export class CardComponent {
-
+  
 }
